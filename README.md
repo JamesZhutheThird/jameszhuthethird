@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm James from SJTU, currently pursuing a joint PhD degree at NTU.
 
 <!--
 **JamesZhutheThird/jameszhuthethird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
