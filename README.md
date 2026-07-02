@@ -1,4 +1,4 @@
-## Hi there 👋 I'm James from SJTU, currently pursuing a joint PhD degree at NTU.
+## Hi there 👋 I'm James from SJTU, currently pursuing a joint PhD degree at NTU. Welcome to my [HomePage](https://JamesZhutheThird.github.io/)!
 
 <!--
 **JamesZhutheThird/jameszhuthethird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
